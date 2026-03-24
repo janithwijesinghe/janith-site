@@ -39,7 +39,7 @@ export default function Navbar() {
   <img
     src="/logo.png" // <-- put your logo in public folder
     alt="Logo"
-    className="h-30 md:h-24 object-contain"
+    className="h-24 md:h-24 object-contain"
   />
 </Link>
 
