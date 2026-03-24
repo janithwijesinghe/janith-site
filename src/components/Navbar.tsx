@@ -39,7 +39,7 @@ export default function Navbar() {
            <img
   src="/logo.png"
   alt="Logo"
-  className="h-12 md:h-20 object-contain mt-1"
+  className="h-12 md:h-20 object-contain mt-4"
 />
           </Link>
 
