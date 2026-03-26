@@ -349,10 +349,10 @@ export default function Home() {
 
             </div>
 
-            <form
+ <form
   action="https://formsubmit.co/janithjayarisi@gmail.com"
   method="POST"
-  className="space-y-6"
+  onsubmit="alert('Message Sent Successfully!');"
 >
   <input type="hidden" name="_captcha" value="false" />
 
